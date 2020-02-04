@@ -10,7 +10,7 @@
         android:layout_width="302dp"
         android:layout_height="67dp"
         android:gravity="center"
-        android:text="Welcome to My android"
+        android:text="Welcome to Android"
         android:textColor="#1F3C69"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
